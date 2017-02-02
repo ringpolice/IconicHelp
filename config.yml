@@ -1,0 +1,14 @@
+default-help:
+- "&1default"
+
+extra1-help:
+- "&2extra1"
+
+extra2-help:
+- "&3extra2"
+
+staff-help-mod:
+- "&4mod"
+
+staff-help-admin:
+- "&5admin"
