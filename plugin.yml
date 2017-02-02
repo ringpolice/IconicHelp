@@ -1,0 +1,9 @@
+name: IconicHelp
+author: rignpolice
+version: 1.0
+main: com.df1015.pl.Help
+commands:
+  help:
+    description: Shows custom help message
+  hreload:
+    description: Reload IconicHelp
